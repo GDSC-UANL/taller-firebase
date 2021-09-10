@@ -2,16 +2,13 @@
 <p align="center">
     <img src="./assets/logo.png"  alt="Logo" width="70px" >
 
-  <h2 align="center">Introducción al desarrollo web</23>
+  <h2 align="center">Desarrollo web avanzado con Firebase</23>
 
 </p>
 
 ## Acerca de
 
-Bienvenidos al repositorio del taller de de Introducción al desarrollo web.
-
-- Se agregaron algunos estilos al contenedor de mensajes para solucionar bugs
-tienen comentarios con explicación :)
+Bienvenidos al repositorio del taller de Desarrollo web avanzado con Firebase
 
 
 ## Contacto
